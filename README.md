@@ -1,9 +1,28 @@
-### 🌊🌊🌊
+```
+┌───────────────────────────────────────────────┐
+│  Glenn Hitchcock · Designer                   │
+└───────────────────────────────────────────────┘
+```
 
-Hello. I'm [Glenn Hitchcock](https://glenn.me), a designer who holistically plays across brand, product and process. Generalism is the spice of life.
+Brand, product and process. Mostly tools for the people who design and build software.
 
-- 🏖️ I'm now shaping design at [Poolside](https://poolside.ai).
-- ▲ I directed design at [Vercel](https://vercel.com). Pushing marketing design pipeline, levelling up design systems, innovating on brand and pushing product.
-- 💎 I previously led product design at [Sketch](https://sketch.com). Founded design systems, processes, directed designers and product teams, and reimagined brand.
-- ⛽️ I also led design at [Fueled](https://fueled.com) for a long time. Built a NYC & LDN design team from a team of 1.
-- 💬 When I'm not heads down, I [tweet](https://x.com/glennui).
+---
+
+**Now** — Building something new from the ground up.
+
+**Experience**
+
+- Poolside, 2024–2026 — Creative Director
+- Vercel, 2022–2024 — Principal Designer, Director of Design Engineering
+- Sketch, 2019–2022 — Product Design Lead
+- Fueled, 2011–2019 — Principal Designer
+
+**Projects**
+
+- [Devouring Details](https://devouringdetails.com) — design taught the way it is actually practised
+- [animations.dev](https://animations.dev) — motion for the web
+- [index.how](https://index.how) — design reference
+
+---
+
+[@glennui](https://twitter.com/glennui) · hi@glenn.me
